@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+      "weather": {
+        "desc":"获取天气信息以及相关工具",
+        "command": "uv",
+        "args": [
+              "--directory",
+              "D:\\project_python\\MCP\\weather",
+              "run",
+              "weather.py"
+          ]
+      }
+  }
+}
